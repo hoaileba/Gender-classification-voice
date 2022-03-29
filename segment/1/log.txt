@@ -1,0 +1,86 @@
+chunk 1 in file 1
+time: 0.192125s
+chunk 2 in file 1
+time: 0.256125s
+chunk 3 in file 1
+time: 0.320125s
+chunk 4 in file 1
+time: 0.320125s
+chunk 5 in file 1
+time: 0.128125s
+chunk 6 in file 1
+time: 0.064125s
+chunk 7 in file 1
+time: 0.192125s
+chunk 8 in file 1
+time: 0.064125s
+chunk 9 in file 1
+time: 0.192125s
+chunk 10 in file 1
+time: 0.192125s
+chunk 11 in file 1
+time: 0.512125s
+chunk 12 in file 1
+time: 0.320125s
+chunk 13 in file 1
+time: 1.088125s
+chunk 14 in file 1
+time: 0.192125s
+chunk 15 in file 1
+time: 0.064125s
+chunk 16 in file 1
+time: 0.256125s
+chunk 17 in file 1
+time: 0.128125s
+chunk 18 in file 1
+time: 0.192125s
+chunk 19 in file 1
+time: 0.192125s
+chunk 20 in file 1
+time: 0.192125s
+chunk 21 in file 1
+time: 0.128125s
+chunk 22 in file 1
+time: 0.320125s
+chunk 23 in file 1
+time: 0.192125s
+chunk 24 in file 1
+time: 0.832125s
+chunk 25 in file 1
+time: 0.256125s
+chunk 26 in file 1
+time: 0.384125s
+chunk 27 in file 1
+time: 0.256125s
+chunk 28 in file 1
+time: 0.128125s
+chunk 29 in file 1
+time: 0.320125s
+chunk 30 in file 1
+time: 0.256125s
+chunk 31 in file 1
+time: 1.280125s
+chunk 32 in file 1
+time: 0.320125s
+chunk 33 in file 1
+time: 0.192125s
+chunk 34 in file 1
+time: 6.144125s
+chunk 35 in file 1
+time: 0.128125s
+chunk 36 in file 1
+time: 0.320125s
+chunk 37 in file 1
+time: 3.840125s
+chunk 38 in file 1
+time: 0.320125s
+chunk 39 in file 1
+time: 0.256125s
+chunk 40 in file 1
+time: 0.256125s
+chunk 41 in file 1
+time: 0.128125s
+chunk 42 in file 1
+time: 0.832125s
+chunk 43 in file 1
+time: 0.256125s
